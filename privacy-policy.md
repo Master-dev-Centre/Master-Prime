@@ -54,4 +54,4 @@ Clearing this data does not clear blacklist data or muted data.*
 ##### This policy was last updated on FEBRUARY 25th, 2023.
 
 
-## [Invite Master](https://discord.com/oauth2/authorize?client_id=1047966679281446962&scope=bot&permissions=8)
+## [Invite Drax Bot](https://discord.com/oauth2/authorize?client_id=1047966679281446962&scope=bot&permissions=8)
