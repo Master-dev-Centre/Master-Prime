@@ -1,12 +1,12 @@
-# DRAX BOT
+# BeatMaster
 
-# Drax Bot-DiscordBot-PrivacyPolicy
-Privacy Policy of Drax Bot DiscordBot
+# BeatMaster-DiscordBot-PrivacyPolicy
+Privacy Policy of BeatMaster DiscordBot
 
 # Privacy Policy
 
-### By using **[Drax Bot](https://discord.com/oauth2/authorize?client_id=1047966679281446962&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
-#### [Invite Drax Bot](https://discord.com/oauth2/authorize?client_id=1047966679281446962&scope=bot&permissions=8)
+### By using **[BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
+#### [Invite BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)
 
 ## What information is stored?
 
@@ -54,4 +54,4 @@ Clearing this data does not clear blacklist data or muted data.*
 ##### This policy was last updated on FEBRUARY 25th, 2023.
 
 
-## [Invite Drax Bot](https://discord.com/oauth2/authorize?client_id=1047966679281446962&scope=bot&permissions=8)
+## [Invite BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)
