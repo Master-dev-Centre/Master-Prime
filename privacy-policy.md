@@ -1,12 +1,12 @@
-# BeatMaster
+# Master Prime
 
-# BeatMaster-DiscordBot-PrivacyPolicy
-Privacy Policy of BeatMaster DiscordBot
+# Master Prime-DiscordBot-PrivacyPolicy
+Privacy Policy of Master Prime DiscordBot
 
 # Privacy Policy
 
-### By using **[BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
-#### [Invite BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)
+### By using **[Master Prime](https://discord.com/oauth2/authorize?client_id=1134786471769952286&scope=bot&permissions=8)**, you agree to the following **Privacy Policy.**
+#### [Invite Master Prime](https://discord.com/oauth2/authorize?client_id=1134786471769952286&scope=bot&permissions=8)
 
 ## What information is stored?
 
@@ -54,4 +54,4 @@ Clearing this data does not clear blacklist data or muted data.*
 ##### This policy was last updated on FEBRUARY 25th, 2023.
 
 
-## [Invite BeatMaster](https://discord.com/oauth2/authorize?client_id=831989897547350017&scope=bot&permissions=8)
+## [Invite Master Prime](https://discord.com/oauth2/authorize?client_id=1134786471769952286&scope=bot&permissions=8)
